@@ -13,11 +13,13 @@
 <img align="left" alt="C++" width="50px" height="50px" style="padding-right:10px;" src="https://logodix.com/logo/1137946.png" />
 <img align="left" alt="SQL" width="50px" height="50px" style="padding-right:10px;" src="https://w7.pngwing.com/pngs/170/924/png-transparent-microsoft-sql-server-microsoft-azure-sql-database-microsoft-text-logo-microsoft-azure.png" /><br><br>
 
+#
 #### Libraries and Frameworks
 <img align="left" alt="Django" width="50px" height="50px" style="padding-right:10px;" src="https://brandslogos.com/wp-content/uploads/images/large/django-logo.png" />
 <img align="left" alt="React" width="50px" height="50px" style="padding-right:10px;" src="https://logos-download.com/wp-content/uploads/2016/09/React_logo_logotype_emblem.png" />
 <img align="left" alt="Pandas" width="50px" height="50px" style="padding-right:10px;" src="https://www.freecodecamp.org/news/content/images/2020/07/pandas-logo.png" /><br><br>
 
+#
 #### Tools
 <img align="left" alt="Git" width="50px" height="50px" style="padding-right:10px;" src="https://toppng.com/uploads/preview/git-logo-11609362364wwhuzvtx5h.png" />
 <img align="left" alt="VSCode" width="50px" height="50px" style="padding-right:10px;" src="https://i.pinimg.com/originals/24/42/f8/2442f8e6dbd772f0cf1dad8d803399bc.png" />
