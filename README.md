@@ -29,7 +29,7 @@
 ---
 
 **Experience**
-<img align="left" alt="UB" width="100px" style="padding-right:10px;" src="https://bloximages.newyork1.vip.townnews.com/richmond.com/content/tncms/assets/v3/editorial/c/1a/c1aa3336-62e6-576e-8d1b-c2f309342b29/584b7ab80be21.image.png" />
+<img align="left" alt="UB" width="100px" height="90px" style="padding-right:10px;" src="https://bloximages.newyork1.vip.townnews.com/richmond.com/content/tncms/assets/v3/editorial/c/1a/c1aa3336-62e6-576e-8d1b-c2f309342b29/584b7ab80be21.image.png" />
 <details>
   <summary>Research Assistant (REU)<br>Virginia Commonwealth University<br>May 2024 - August 2024</summary>
   - Developed a Python script that extracts thousands of US patent data, including JSON data, text, and images, using the Google Patents API.<br>
