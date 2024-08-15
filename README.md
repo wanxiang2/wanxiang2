@@ -1,6 +1,6 @@
 # Hi, I’m WanXiang!
 
-<img align="left" alt="UB" width="125px" height="110px" style="padding-right:10px;" src="https://media.bizj.us/view/img/2690091/suny-ub-logo*1200xx1200-675-0-63.jpg" />
+<img align="left" alt="UB" width="125px" style="padding-right:10px;" src="https://media.bizj.us/view/img/2690091/suny-ub-logo*1200xx1200-675-0-63.jpg" />
 <p>I am a Computer Science student at University at Buffalo. I have experience with Django, React, Git, and SQL, as well as multiple programming languages such as Python, Java, JavaScript, C, and C++. I have also gained valuable research experience after interning in the Natural Language Processing lab of Virginia Commonwealth University.</p>
 
 ---
@@ -29,7 +29,7 @@
 ---
 
 **Experience**
-<img align="left" alt="UB" width="100px" style="padding-right:10px;" src="https://bloximages.newyork1.vip.townnews.com/richmond.com/content/tncms/assets/v3/editorial/c/1a/c1aa3336-62e6-576e-8d1b-c2f309342b29/584b7ab80be21.image.png" />
+<img align="left" alt="UB" width="125px" style="padding-right:10px;" src="https://bloximages.newyork1.vip.townnews.com/richmond.com/content/tncms/assets/v3/editorial/c/1a/c1aa3336-62e6-576e-8d1b-c2f309342b29/584b7ab80be21.image.png" />
 <details>
   <summary>Research Assistant (REU)<br>Virginia Commonwealth University<br>May 2024 - August 2024</summary>
   - Developed a Python script that extracts thousands of US patent data, including JSON data, text, and images, using the Google Patents API.<br>
