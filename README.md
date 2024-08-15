@@ -1,7 +1,7 @@
 # Hi, I’m WanXiang!
 
 <img align="left" alt="UB" width="100px" style="padding-right:10px;" src="https://media.bizj.us/view/img/2690091/suny-ub-logo*1200xx1200-675-0-63.jpg" />
-I am a Computer Science student at University at Buffalo. I have experience with Django, React, Git, and SQL, as well as multiple programming languages such as Python, Java, JavaScript, C, and C++. I have also gained valuable research experience after interning in the Natural Language Processing lab of Virginia Commonwealth University.
+<p>I am a Computer Science student at University at Buffalo. I have experience with Django, React, Git, and SQL, as well as multiple programming languages such as Python, Java, JavaScript, C, and C++. I have also gained valuable research experience after interning in the Natural Language Processing lab of Virginia Commonwealth University.</p>
 
 ---
 
@@ -23,7 +23,8 @@ I am a Computer Science student at University at Buffalo. I have experience with
 <img align="left" alt="VSCode" width="50px" height="50px" style="padding-right:10px;" src="https://i.pinimg.com/originals/24/42/f8/2442f8e6dbd772f0cf1dad8d803399bc.png" />
 <img align="left" alt="IntelliJ" width="50px" height="50px" style="padding-right:10px;" src="https://logonoid.com/images/intellij-idea-logo.png" />
 <img align="left" alt="PyCharm" width="50px" height="50px" style="padding-right:10px;" src="https://blog.finxter.com/wp-content/uploads/2020/11/PyCharm_Logo.png" />
-<img align="left" alt="Linux" width="50px" height="50px" style="padding-right:10px;" src="https://pluspng.com/img-png/linux-logo-png-linux-png-logo-free-img-594x720.png" /><br><br>
+<img align="left" alt="Linux" width="50px" height="50px" style="padding-right:10px;" src="https://pluspng.com/img-png/linux-logo-png-linux-png-logo-free-img-594x720.png" />
+<img align="left" alt="Linux" width="50px" height="50px" style="padding-right:10px;" src="https://slurm.schedmd.com/slurm_logo.png" /><br><br>
 
 ---
 
