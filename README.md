@@ -1,6 +1,6 @@
 # Hi, I’m WanXiang!
 
-<img align="left" alt="UB" width="100px" style="padding-right:10px;" src="https://media.bizj.us/view/img/2690091/suny-ub-logo*1200xx1200-675-0-63.jpg" />
+<img align="left" alt="UB" width="125px" style="padding-right:10px;" src="https://media.bizj.us/view/img/2690091/suny-ub-logo*1200xx1200-675-0-63.jpg" />
 <p>I am a Computer Science student at University at Buffalo. I have experience with Django, React, Git, and SQL, as well as multiple programming languages such as Python, Java, JavaScript, C, and C++. I have also gained valuable research experience after interning in the Natural Language Processing lab of Virginia Commonwealth University.</p>
 
 ---
@@ -60,15 +60,6 @@
   - Implemented malloc, calloc, and realloc to allocate memory and implemented free to give memory back to the system.<br>
   - Designed a doubly linked free list table to manage free memory blocks efficiently.<br>
 </details>
-
----
-
-**Programming Languages**
-Python, Java, JavaScript, C, C++, SQL<br>
-
-**Libraries and Frameworks**
-Django, React, Pandas, NLTK<br>
-
 
 
 
