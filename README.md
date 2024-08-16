@@ -47,7 +47,7 @@
 #### Projects
 <details>
   <summary>Collaborative Music Player</summary>
-  - Designed a music player that allows a group of people to join a music room, vote on what songs to play, and listen to the songs together on their own computers.<br>
+  - Designed a full-stack music application that allows a group of people to join a music room, vote on what songs to play, and listen to the songs together on their own computers.<br>
   - Made use of Python, Django, and Spotify Web API to run the web server and JavaScript and React to design the webpages.<br>
 </details>
 <details>
